@@ -5,7 +5,7 @@ package com.darshil.demo;
 
 public class App {
     public String getGreeting() {
-        return "Hello World from gradle - why not ?";
+        return "Hello World from gradle";
     }
 
     public static void main(String[] args) {
