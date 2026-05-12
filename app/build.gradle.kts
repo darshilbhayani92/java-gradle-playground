@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = "com.darshil.demo.NewBlockingQueue"
+    mainClass = "com.darshil.demo.Main"
 }
 
 tasks.named<Test>("test") {
